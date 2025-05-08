@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build/Outputs
+build/
+dist/
+*.egg-info/
+*.so
+*.exe
+
+# Logs e databases
+*.log
+*.sqlite
+*.db
+
+# Arquivos sensíveis
+.env
+*.env
+secrets.py
+credentials.json
+
+# Outros
+.DS_Store
+Thumbs.db
